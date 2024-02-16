@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine-Learning/Deep-learning/NLP
 - 🌱 I’m currently learning GenAi
 - 📫 How to reach me muidchaudhary@gmail.com
-- ⚡ Fun fact: Astala Vista 
+- ⚡ Fun fact: Ronaldo still not won a worldcup
 
 <!---
 muidchaudhary/muidchaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
