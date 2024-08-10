@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @muidchaudhary
-- 👀 I’m interested in Machine-Learning/Deep-learning/NLP
-- 🌱 I’m currently learning Deep learning
+- 👀 Power BI Developer
 - 📫 How to reach me muidchaudhary@gmail.com
 - ⚡ Fun fact: Ronaldo still not won a worldcup
 
